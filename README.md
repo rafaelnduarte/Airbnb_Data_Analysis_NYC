@@ -14,5 +14,5 @@ With all that in mind, it should be interesting to analyze the data, and see how
 If you want to learn more about this subject, check out this notebook, and let me know what you think!
 
 <p align="center">
-  <img src="img/rafaelnd_ds.png" >
+  <img src="rafaelnd_banner.png" width=70% >
 </p>
